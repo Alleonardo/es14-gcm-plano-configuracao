@@ -5,12 +5,12 @@ using System.Data.Entity.ModelConfiguration.Conventions;
 
 namespace AceleraToDoList.Data.Contexts
 {
-    public class PratokeDbContect : DbContext
+    public class PratokeDbContext : DbContext
     {
-        public PratokeDbContect()
+        public PratokeDbContext()
             : base("PratokeDbConection")
         {
-            Database.SetInitializer<PratokeDbContect>(null);
+            Database.SetInitializer<PratokeDbContext>(null);
             Database.CommandTimeout = 60;
         }
 
