@@ -8,7 +8,11 @@ Então, após nosso contato, o cliente expôs que deseja o desenvolvimento de um
 ## Funcionalidades deste sistema
 
 1-	Controle de acesso por perfil de usuário.
+
 2-	Cadastro de clientes, doadores, campanhas e usuários. 
+
 3-	Distribuição de fichas de contatos de doadores. 
+
 4-	Controle de Recebimentos  (boleto, cartão de crédito, deposito bancário e outros).
+
 5- Relatórios Gerenciais
