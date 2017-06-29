@@ -7,5 +7,7 @@
 <tr><td>Verificar itens do checklist</td><td>Implantador</td></tr>
 <tr><td>Configurar perfis de acesso</td><td>Implantador</td></tr>
 <tr><td>Acompanhar/Analisar ocorrências</td><td>Implantador</td></tr>
+<tr><td>Código da Class ControleDeCadastro</td><td>José Belo Delfino</td></tr>
 <tr><td>Cenário de Teste : Controle de Cadastro de Usuário </td><td>Analista de Testes</td></tr>
+<tr><td>Cenário de Teste1 : Perfis de Acesso na Pagina de Cadastro </td><td>Analista de Testes</td></tr>
 </table>
