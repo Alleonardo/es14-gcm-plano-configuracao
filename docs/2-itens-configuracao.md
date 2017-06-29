@@ -2,6 +2,7 @@
 
 <table>
 <tr><th>Item de configuração</th><th>Equipe responsável (analistas de sistemas, programadores etc.)</th></tr>
+<tr><td>Cronograma</td><td>Coordenador</td></tr>
 <tr><td>Requisitos de Sistema</td><td>Analista de Sistemas</td></tr>
 <tr><td>Regra de Negocios</td><td>Analista de Sistemas</td></tr>
 <tr><td>Itens do checklist</td><td>Implantador</td></tr>
